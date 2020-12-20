@@ -1,0 +1,112 @@
+#GG{
+	position: absolute;
+	width: 980px;
+	height: 1720px;
+	left: 120px;
+	top: 1700px;
+	border-radius: 10px;
+	background: #f4f7fa;
+}
+.image-font-style{
+	position: absolute;
+	width: 700px;
+	left: 230px;
+	top: 15px;
+}
+.putes{
+	font-size: 25px;
+}
+.putesText{
+	text-align: justify;
+	font-family: Circe;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+}
+#zamet1{
+	position: absolute;
+	left: 50px;
+	top: 320px;
+	width: 500px;
+	height: 80px;
+	background-color: #fff8e1;
+}
+.zamet1{
+	padding-left: 30px;
+	padding-top: 10px;
+	color: #de6000;
+	font-size: 20px;
+}
+.build{
+	position: absolute;
+	left: 345px;
+	top: 400px;
+	font-family: Plumb;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+}
+.hr2{
+	position: absolute;
+	left: 60px;
+	top: 470px;
+	width: 850px;
+}
+#GunTest{
+	position: absolute;
+	left: 65px;
+	top: 460px;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+}
+#ArtsTest{
+	position: absolute;
+	left: 570px;
+	top: 460px;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+}
+#Gun{
+	position: absolute;
+	top: 540px;
+	left: 65px;
+	width: 400px;
+	height: 400px;
+}
+.GunText{
+	text-align: justify;
+	padding-right: 15px;
+	padding-left: 20px;
+	font-style: normal;
+	font-size: 20px;
+}
+#Arts{
+	position: absolute;
+	top: 540px;
+	left: 570px;
+	width: 400px;
+	height: 400px;
+}
+#Gun1{
+	position: absolute;
+	top: 990px;
+	left: 65px;
+	width: 400px;
+	height: 400px;
+}
+#Arts1{
+	position: absolute;
+	top: 990px;
+	left: 570px;
+	width: 400px;
+	height: 300px;
+}
+#Arts2{
+	position: absolute;
+	top: 1335px;
+	left: 570px;
+	width: 400px;
+	height: 300px;
+}

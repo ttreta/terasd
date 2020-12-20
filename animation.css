@@ -1,0 +1,414 @@
+.image_font_style{
+	position: absolute;
+	width: 400px;
+	left: 320px;
+	top: 90px;
+}
+.suna{
+	font-size: 25px;
+}
+.image_style{
+	position: absolute;
+	left: 150px;
+	top: 110px;
+}
+.Image-style{
+	position: absolute;
+	left: 50px;
+	top: 30px;
+}
+.sunatext{
+	width: 850px;
+	text-align: justify;
+	font-family: Circe;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 20px;
+}
+#rei{
+	border-radius: 10px;
+	width: 200px;
+	height: 50px;
+	background: #f4f7fa !important;
+}
+#rei2{
+	border-radius: 10px;
+	width: 200px;
+	height: 50px;
+	background: #ffffff !important;
+}
+#rei1{
+	position: relative;
+	border-radius: 10px;
+	margin: 0;
+	width: 1000px;
+	height: 50px;
+	top: -100px;
+	left: 150px;
+	background: #ff7f7f !important;
+	opacity: 1;
+}
+#rei1:hover{
+	opacity: 0.6;
+}
+.rei{
+	padding-left: 0px;
+	text-align: center;
+	padding-top: 14px;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: normal;
+}
+.rei1{
+	padding-left: 10px;
+	text-align: left;
+	padding-top: 10px;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: normal;
+}
+.terrasd{
+	position: relative;
+	padding-left: 15+
+	0px;
+	padding-top: 200px;
+}
+.tabletext{
+	position: absolute;
+	margin: 0;
+	left: 190px;
+	top: 200px;
+	color: rgba(0, 0, 0, 0.5);
+}
+.tabletext1{
+	position: absolute;
+	margin: 0;
+	top: 200px;
+	left: 290px;
+	color: rgba(0, 0, 0, 0.5);
+}
+.tabletext2{
+	position: absolute;
+	margin: 0;
+	left: 490px;
+	top: 200px;
+	color: rgba(0, 0, 0, 0.5);
+}
+.tabletext3{
+	position: absolute;
+	margin: 0;
+	left: 680px;
+	top: 200px;
+	color: rgba(0, 0, 0, 0.5);
+}
+#targetText{
+	position: absolute;
+	border-radius: 10px;
+	background-color: #ff7f7f;
+	left: 150px;
+	top: 20px;
+	width: 350px;
+	height: 50px;
+}
+.tergetText{
+	text-align: left;
+	width: 500px;
+	margin: 0;
+	padding-top: 13px;
+	padding-left: 10px;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: normal;
+}
+#zamet{
+	position: absolute;
+	left: 150px;
+	top: 420px;
+	width: 500px;
+	height: 80px;
+	background-color: #fff8e1;
+}
+.zamet{
+	padding-left: 30px;
+	padding-top: 10px;
+	color: #de6000;
+	font-size: 20px;
+}
+/*Класс с дивами где прописанно все важное*/
+.gunTest{
+	position: absolute;
+	left: 150px;
+	top: 550px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+}
+.gun{
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+}
+.gun1{
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+}
+.gunText{
+	text-align: justify;
+	padding-right: 15px;
+	padding-left: 20px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+}
+.gunText1{
+	text-align: justify;
+	padding-right: 15px;
+	padding-left: 20px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+}
+.arts{
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+}
+.arts1{
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+}
+.arts2{
+	font-style: normal;
+	font-weight: normal;
+	font-style: 20px;
+}
+.artsText{
+	text-align: justify;
+	padding-right: 15px;
+	padding-left: 20px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+}
+.artsText1{
+	text-align: justify;
+	padding-right: 15px;
+	padding-left: 20px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+}
+.artsText2{
+	text-align: justify;
+	padding-right: 15px;
+	padding-left: 20px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+}
+#gun{
+	position: absolute;
+	top: 630px;
+	left: 150px;
+	width: 400px;
+	height: 400px;
+}
+#gun1{
+	position: absolute;
+	top: 1080px;
+	left: 150px;
+	width: 400px;
+	height: 400px;
+}
+#arts{
+	position: absolute;
+	top: 630px;
+	left: 700px;
+	width: 400px;
+	height: 400px;
+}
+#arts1{
+	position: absolute;
+	top: 1080px;
+	left: 700px;
+	width: 400px;
+	height: 270px;
+}
+#arts2{
+	position: absolute;
+	top: 1390px;
+	left: 700px;
+	width: 400px;
+	height: 270px;
+}
+.artsTest{
+	position: absolute;
+	left: 700px;
+	top: 550px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+}
+/*or*/
+.ili{
+	position: absolute;
+	top: 1010px;
+	left: 310px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+}
+.ili1{
+	position: absolute;
+	top: 1010px;
+	left: 860px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+}
+.and{
+	position: absolute;
+	top: 1325px;
+	left: 885px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+}
+/*Вставка персонажей и подгонка их род сайт*/
+.Hero{
+	position: absolute;
+	left: 215px;
+	top: 210px;
+}
+.Hero1{
+	position: absolute;
+	left: 290px;
+	top: 210px;
+}
+.Hero2{
+	position: absolute;
+	left: 500px;
+	top: 210px;
+}
+.Hero3{
+	position: absolute;
+	width: 150px;
+	left: 680px;
+	top: 210px;
+}
+.HeroPoints{
+	position: absolute;
+	text-align: center;
+	left: 880px;
+	top: 210px;
+	width: 100px;
+	height: 25px;
+	padding-top: 5px;
+	border-radius: 4px;
+	background-color: #d9e3ed;
+	color: #2e343b;
+	opacity: 1;
+}
+.HeroPoints:hover{
+	opacity: 0.6;
+}
+.HeroPoints1{
+	position: absolute;
+	text-align: center;
+	left: 675px;
+	top: -16px;
+	width: 100px;
+	height: 25px;
+	padding-top: 5px;
+	border-radius: 4px;
+	background-color: #d9e3ed;
+	color: #2e343b;
+	opacity: 1;
+}
+.HeroPoints1:hover{
+	opacity: 0.6;
+}
+#HeroPoints1{
+	margin: 0;
+}
+#Hero1{
+	position: absolute;
+	left: 205px;
+	top: 280px;
+	width: 800px;
+	margin: 0;
+	height: 30px;
+	border-radius: 10px;
+	background-color: #f4f7fa;
+}
+/*Главный герой*/
+.Gero{
+	position: absolute;
+	margin: 0;
+	left: 10px;
+	top: 6px;
+}
+.Gero1{
+	position: absolute;
+	margin: 0;
+	left: 85px;
+	top: 6px;
+}
+.Gero2{
+	position: absolute;
+	margin: 0;
+	left: 290px;
+	top: 6px;
+}
+.Gero3{
+	position: absolute;
+	margin: 0;
+	left: 476px;
+	top: 6px;
+}
+/*Информация о том как идет раздача рангов!!*/
+#Information{
+	position: absolute;
+	top: 330px;
+	left: 150px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+}
+#Information1{
+	position: absolute;
+	top: 510px;
+	left: 150px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+}
+.Information{
+	position: absolute;
+	top: 380px;
+	left: 130px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 1.5em;
+	color: rgba(0,0,0,0.8);
+}
+.Information1{
+	position: absolute;
+	top: 560px;
+	left: 130px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 1.5em;
+	color: rgba(0,0,0,0.8)
+}
+/*стрелочка на верх*/
+#starter{
+	position: absolute;
+	position: fixed;
+	left: 1770px;
+	top: 870px;
+}
